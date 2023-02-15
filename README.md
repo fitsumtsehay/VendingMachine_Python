@@ -66,4 +66,5 @@ quarters and a penny.
 
 ### Output:
 ![image](https://user-images.githubusercontent.com/63597726/218984422-2727e607-ec3b-4fe5-b4b3-ed8c9cce07c3.png)
+![image](https://user-images.githubusercontent.com/63597726/218985121-56deb70a-a7f5-48af-b291-ce9223c1a61a.png)
 
