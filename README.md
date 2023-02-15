@@ -63,3 +63,7 @@ the operations, convert the balance into cents by multiplying it by a 100.
 - The change will be given from starting with the highest coin denomination
 possible. For instance, if the remaining balance is 0.76, the change will be 3
 quarters and a penny.
+
+### Output:
+![image](https://user-images.githubusercontent.com/63597726/218984422-2727e607-ec3b-4fe5-b4b3-ed8c9cce07c3.png)
+
