@@ -1,11 +1,11 @@
-# VendingMachine_Python
+#@ VendingMachine_Python
 A Python program that simulates the operations of a vending machine with four functions:
 1. Display menu
 2. Take cash
 3. Offer products
 4. Return change in coins
 
-## The program will perform the following in order:
+##@ The program will perform the following in order:
 1) Display the instructions to the user
 2) Take in money from the user
 3) Display the menu of products
